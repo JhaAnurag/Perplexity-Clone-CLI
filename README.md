@@ -55,5 +55,10 @@ python main.py
 ## Contribution 🤝
 Feel free to fork, contribute, or submit issues!
 
+## Todo
+- agentic back and forth behaviour
+- multiple gpt
+- deep research?
+
 ## License 📜
 MIT License
