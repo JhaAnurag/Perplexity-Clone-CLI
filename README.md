@@ -59,6 +59,7 @@ Feel free to fork, contribute, or submit issues!
 - agentic back and forth behaviour
 - multiple gpt
 - deep research?
+- gui
 
 ## License 📜
 MIT License
