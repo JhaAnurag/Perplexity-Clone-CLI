@@ -41,7 +41,6 @@ python main.py
 - `requests` - Fetch web pages
 - `googlesearch-python` - Perform Google searches
 - `trafilatura` - Extract text from web pages
-- `rich` - Display formatted terminal output
 - `google-generativeai` - Interface with Gemini AI
 
 ## API Key Setup 🔑
