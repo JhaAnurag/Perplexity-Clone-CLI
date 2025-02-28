@@ -6,7 +6,6 @@ A powerful command-line search and AI assistant inspired by Perplexity AI. This 
 - 🔍 **Web Search:** Fetches top search results for your query.
 - 🌍 **Website Content Extraction:** Retrieves and summarizes content from top sources.
 - 🤖 **AI-Powered Answers:** Uses Gemini AI to generate concise, well-structured responses.
-- 🎨 **Rich Terminal Output:** Displays results in an organized, Markdown-formatted style with **Rich**.
 - 🔑 **Secure API Usage:** Prompts for an API key instead of hardcoding it.
 
 ## Installation 📥
